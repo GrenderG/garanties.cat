@@ -7,7 +7,7 @@ Dump de la página web garanties.cat
 
 * http://garanties.tk/
 * http://garanties.org/
-* http://garanties.ninja.cat/
+* ~http://garanties.ninja.cat/~ [OFFLINE]
 * http://garanties.fyi/
 * http://garanties.ninja/
 * http://garanties.lol/
