@@ -13,3 +13,5 @@ Dump de la página web garanties.cat
 * http://garanties.lol/
 * http://garanties.party/
 * http://garanties.love/
+* http://garanties.pro/
+* http://garanties.site/
