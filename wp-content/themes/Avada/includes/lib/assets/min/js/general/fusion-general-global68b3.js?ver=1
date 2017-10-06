@@ -1,1 +1,0 @@
-jQuery(document).ready(function(a){jQuery("input, textarea").placeholder()}),jQuery(window).load(function(){jQuery(".fusion-youtube-flash-fix").remove()});
