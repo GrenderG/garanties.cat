@@ -24,3 +24,4 @@ Dump de la página web garanties.cat
 * http://garanties.pro/
 * http://garanties.site/
 * http://garanties.ilogic.io
+* http://garantiespelreferendum.cat [ **WEB FALSA** ]
